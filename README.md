@@ -38,9 +38,9 @@ Published in **[IJACSA 2026](https://github.com/ornellabahidika/when-agents-dele
 
 ---
 
-### 🤖 Agent Builder &nbsp;·&nbsp; _in development_
+### 🤖 Agent Employees &nbsp;·&nbsp; _in development_
 
-Workspace for experimenting with AI agent orchestration patterns — building on the ideas from my IJACSA paper on how agents delegate subtasks and where it breaks down.
+**The AI workforce platform — describe the job, deploy the employee, own every decision.**
 
 **Status**: early scaffolding · **Code**: private
 
