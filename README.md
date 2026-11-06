@@ -12,19 +12,11 @@ Published in **[IJACSA 2026](https://github.com/ornellabahidika/when-agents-dele
 
 ### 🧳 VoyPilot &nbsp;·&nbsp; _live product_
 
-**The travel planner you wish existed.** Tell it your budget, dates, and vibe, and in ~30 seconds you get a complete trip — 4-5 destinations matched to your constraints, real-priced flights and hotels (sourced live from Google Flights and Google Hotels via SerpAPI, not AI guesses), a day-by-day itinerary, events happening during your stay, local transport options, real traveler reviews, and even group trips of other people heading the same way.
+**AI travel advisor.** Tell it your budget, dates, and vibe — it plans the whole trip in ~30 seconds: destinations matched to your constraints, real-priced flights and hotels (sourced from Google Flights/Hotels via SerpAPI), day-by-day itinerary, events during your stay, transport options, and other travelers heading the same way.
 
 ### 🌐 **Try it live → [voypilot.com](https://voypilot.com)**
 
-**Why it's different**
-- 🎯 **Real prices, real bookings** — click "Book" and land on the exact offer at the exact price (Google Flights for flights, Google Hotels for stays, with affiliate links)
-- ⚡ **Streaming UI** — first destination card appears in ~12 seconds via Server-Sent Events while Claude keeps generating the rest
-- 🧩 **End-to-end in one page** — flights, hotels, itinerary, transport, events, group trips, insider tips
-- 🌍 **8 languages** — English, Spanish, French, German, Italian, Portuguese, Japanese, Chinese
-- 📊 **Instrumented with PostHog** — session replays, funnel tracking, conversion analytics
-
-**Stack**: Next.js 16 (App Router + Turbopack) · React 19 · TypeScript · Tailwind v4 · Claude Haiku 4.5 streaming with Zod structured output · Anthropic SDK · Tavily (web search grounding) · SerpAPI (live flight/hotel data) · Photon/OpenStreetMap (edge-cached location autocomplete) · PostHog · Vercel
-
+**Stack**: Next.js 16 · React 19 · TypeScript · Tailwind v4 · Claude Haiku 4.5 (streaming) · Tavily web search · SerpAPI · PostHog · Vercel
 **Status**: in production · **Code**: private
 
 ---
