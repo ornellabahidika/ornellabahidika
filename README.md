@@ -1,6 +1,6 @@
 ### Hi, I'm Ornella 👋
 
-Solo builder and AI engineer. I ship products end-to-end — from the Claude-powered backend to the pixel-pushed frontend to the Vercel deploy.
+Solo builder, AI Product Manager and researcher . I enjoy building and shipping innovative products end to end 
 
 Published in **[IJACSA 2026](https://github.com/ornellabahidika/when-agents-delegate-supplement)** on multi-agent delegation patterns.
 
