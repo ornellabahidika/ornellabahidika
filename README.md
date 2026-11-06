@@ -1,6 +1,6 @@
 ### Hi, I'm Ornella 👋
 
-Solo builder, AI Product Manager and researcher . I enjoy building and shipping innovative products end to end 
+Solo builder, AI Product Manager and researcher . I enjoy building, experimenting and shipping innovative products end to end 
 
 Published twice in **IJACSA 2026** on AI agent accountability and ethical oversight — see [Publications](#-publications) below.
 
