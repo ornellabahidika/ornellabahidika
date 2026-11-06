@@ -43,6 +43,8 @@ https://www.linkedin.com/in/ornella-bahidika/
 ### 🤖 Agent Employees &nbsp;·&nbsp; _in development_
 
 **The AI workforce platform — describe the job, deploy the employee, own every decision.**
+ Workmate AI — a multi-tenant SaaS that lets anyone create an "AI workforce" without code. Describe a job  in plain language and it builds a configured AI agent (tools, workflow, approvals); hire prebuilt agents  from a marketplace; run them with a live execution engine and human-in-the-loop approvals for sensitive 
+actions. Built with Next.js, TypeScript, Supabase (Postgres + RLS), the Claude API, Stripe, and Google OAuth.
 
 **Status**: early scaffolding · **Code**: private
 
