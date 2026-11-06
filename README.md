@@ -4,7 +4,9 @@ Solo builder, AI Product Manager and researcher . I enjoy building, experimentin
 
 Published twice in **IJACSA 2026** on AI agent accountability and ethical oversight — see [Publications](#-publications) below.
 
-📍 Based in Seattle Washington · 📫 [bahidikaornella@gmail.com](mailto:bahidikaornella@gmail.com) https://www.linkedin.com/in/ornella-bahidika/
+📍 Based in Seattle Washington · 📫 [bahidikaornella@gmail.com](mailto:bahidikaornella@gmail.com) 
+https://www.linkedin.com/in/ornella-bahidika/
+
 
 ---
 
