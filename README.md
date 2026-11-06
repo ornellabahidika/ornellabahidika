@@ -2,7 +2,7 @@
 
 Solo builder, AI Product Manager and researcher . I enjoy building and shipping innovative products end to end 
 
-Published in **[IJACSA 2026](https://github.com/ornellabahidika/when-agents-delegate-supplement)** on multi-agent delegation patterns.
+Published twice in **IJACSA 2026** on AI agent accountability and ethical oversight — see [Publications](#-publications) below.
 
 📍 Based in the US · 📫 [bahidikaornella@gmail.com](mailto:bahidikaornella@gmail.com)
 
@@ -46,11 +46,23 @@ Published in **[IJACSA 2026](https://github.com/ornellabahidika/when-agents-dele
 
 ---
 
-### 📄 [When Agents Delegate — Supplement](https://github.com/ornellabahidika/when-agents-delegate-supplement) &nbsp;·&nbsp; _published research_
+## 📄 Publications
 
-Supplementary materials (S1 audit working notes, S2 audit evidence) from my **IJACSA 2026** paper on multi-agent delegation patterns — how AI agents hand off subtasks to each other and what goes wrong when they do.
+### Agentic Accountability: "The Buck Stops Where?" — Ethical Frameworks for Human Oversight of Autonomous AI Systems
 
-**Stack**: Python · **Status**: public, cited in paper
+As agentic AI shifts from one-off prompts to systems that plan and act autonomously over long horizons, who's accountable when things go wrong? This paper proposes ethical frameworks for human oversight of autonomous AI agents.
+
+**IJACSA · Vol. 17, Issue 5 · May 2026**
+📖 **[Read the paper](https://thesai.org/Publications/ViewPaper?Volume=17&Issue=5&Code=IJACSA&SerialNo=2)** · 📥 **[PDF](https://thesai.org/Downloads/Volume17No5/Paper_2-Agentic_Accountability_The_Buck_Stops_Where.pdf)** · DOI: [10.14569/IJACSA.2026.0170502](https://doi.org/10.14569/IJACSA.2026.0170502)
+
+---
+
+### When Agents Delegate: Accountability Chains in Multi-Agent AI Systems
+
+Audit of five widely used agent protocols (Model Context Protocol, Agent2Agent, LangGraph, AutoGen, OpenAI Agents SDK) against five accountability conditions — 25 verdicts total, with a blind second-coding reliability study.
+
+**IJACSA · 2026**
+📦 **[Supplementary materials repo](https://github.com/ornellabahidika/when-agents-delegate-supplement)** (public, CC BY 4.0) · audit working notes · evidence as structured JSON · reliability study
 
 ---
 
