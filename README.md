@@ -3,7 +3,7 @@
 Solo builder, AI Product Manager and researcher . I enjoy building, experimenting and shipping innovative products end to end 
 
 Published twice in **IJACSA 2026** on AI agent accountability and ethical oversight — see [Publications](#-publications) below.
-https://youtu.be/m24UKZomm7k?si=9Ix5TUv_ouJMStuh || https://youtu.be/fnLBmfsI_Fg?si=fd93fhjG7wgVxIEI
+**Speaker at the AI Engineer World's Fair 2026** [https://ai.engineer/speakers/ornella-bahidika]
 
 📍 Based in Seattle Washington · 📫 [bahidikaornella@gmail.com](mailto:bahidikaornella@gmail.com) ||
 https://www.linkedin.com/in/ornella-bahidika/
