@@ -8,9 +8,7 @@ Published twice in **IJACSA 2026** on AI agent accountability, Governance and et
 **Speaker at the AI Engineer World's Fair 2026** [https://ai.engineer/speakers/ornella-bahidika]
 
 📍 Based in Seattle Washington · 📫 [bahidikaornella@gmail.com](mailto:bahidikaornella@gmail.com) ||
-https://www.linkedin.com/in/ornella-bahidika/
-
-**Resume** file:///Users/ornella/Downloads/BahidikaOrnella%20Resume%20Latest%202026.pdf
+https://www.linkedin.com/in/ornella-bahidika/ **Resume** file:///Users/ornella/Downloads/BahidikaOrnella%20Resume%20Latest%202026.pdf
 
 💼 **Work at Microsoft**  as a Product Manager Builder on Teams AI workspaces management
 
